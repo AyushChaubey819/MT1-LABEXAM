@@ -1,0 +1,14 @@
+
+{
+  "name": "mt1-exam-lab",
+  "version": "1.0.0",
+  "description": "Employee Task Management Application",
+  "type": "module",
+  "scripts": {
+    "start:http": "node httpServer.js",
+    "start:express": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
